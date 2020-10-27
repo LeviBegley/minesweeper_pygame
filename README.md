@@ -1,2 +1,2 @@
-# minesweeper_pygame
-Minesweeper written with pygame
+# Minesweeper_pygame
+WIP Minesweeper written with pygame
